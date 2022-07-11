@@ -1,0 +1,7 @@
+names:
+- Platelets
+- RBC
+- WBC
+nc: 3
+train: /content/drive/MyDrive/YOLOv5/datasets/BCCD-1/train/images
+val: /content/drive/MyDrive/YOLOv5/datasets/BCCD-1/valid/images
